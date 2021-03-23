@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"http.proxyStrictSSL": false,
+		"http.proxy": "http://zpr1:8080",
+		"files.eol": "\r\n",
+		"terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+		"[javascript]": {
+			"editor.defaultFormatter": "vscode.typescript-language-features"
+		},
+		"[json]": {
+			"editor.defaultFormatter": "vscode.json-language-features"
+		},
+		"[jsonc]": {
+			"editor.defaultFormatter": "vscode.json-language-features"
+		},
+		"eslint.packageManager": "yarn",
+		"eslint.alwaysShowStatus": true,
+		"vetur.format.defaultFormatter.js": "none",
+		"editor.codeActionsOnSave": {
+			"source.fixAll": true
+		},
+	}
+}
